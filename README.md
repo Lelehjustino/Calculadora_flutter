@@ -22,3 +22,5 @@ Este é um projeto de uma **calculadora simples** desenvolvida com **Flutter**, 
 1. Clone este repositório:
    ```bash
    git clone https://github.com/seu-usuario/calculadora-flutter.git
+
+<p><a href="">Clique aqui para ver o projeto na web</a></p>
