@@ -18,8 +18,7 @@ Este é um projeto de uma **calculadora simples** desenvolvida com **Flutter**, 
 - Responsiva para diferentes tamanhos de tela
 
 ## ▶️ Como Executar
-
-1. Clone este repositório:
+Clone este repositório:
    ```bash
    git clone https://github.com/seu-usuario/calculadora-flutter.git
 
